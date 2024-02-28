@@ -17,7 +17,7 @@ class FamilyStructure:
             {
             "id": self._generateId(),
             "firstname": "John",
-            "last_name": last_name,
+            "lastname": last_name,
             "age":33,
             "lucky_numbers":[7, 13 ,22]
             },
@@ -25,7 +25,7 @@ class FamilyStructure:
         {
             "id": self._generateId(),
             "firstname": "Jane",
-            "last_name": last_name,
+            "lastname": last_name,
             "age":35,
             "lucky_numbers":[10, 14 ,3]
             },
@@ -33,7 +33,7 @@ class FamilyStructure:
             {
             "id": self._generateId(),
             "firstname": "Jimmy",
-            "last_name": last_name,
+            "lastname": last_name,
             "age":5,
             "lucky_numbers":[1]
             }
